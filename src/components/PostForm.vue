@@ -90,7 +90,7 @@ export default {
     border:10px solid #fff;
     padding: 20px;
     background-color: #f2fbff;
-    border-image: url("@/assets/Rectangle\ 7.svg") 18;
+    border-image: url("@/assets/Rectangle\ 6.png") 18;
     border-right-width: 3px;
     border-left-width: 5px;
     border-bottom-width: 3px;
